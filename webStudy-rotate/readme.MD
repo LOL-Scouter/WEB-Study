@@ -17,16 +17,16 @@
 * 돌아가는게 어떻게 도대체 구현될까? 했는데, 
  circle에
  <br>
- #circle{
-    width: 1000px;    
-    height: 1000px;     
-    position: absolute;   
-    top: 0;   
-    left: 0;   
-    border-radius: 50%;  
-    transform: rotate(0deg);  
-    transition: 1s;               ✔
-}  
+ #circle{<br>
+    width: 1000px;<br>
+    height: 1000px;<br>
+    position: absolute;<br>
+    top: 0;<br>
+    left: 0;<br>
+    border-radius: 50%;<br>
+    transform: rotate(0deg);<br>
+    transition: 1s; ✔<br>
+} <br> 
 <br>
 transition을 1초로 주니까 자연스럽게 돌아가는 것이 신기했다.
 
