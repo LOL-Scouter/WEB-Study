@@ -18,15 +18,15 @@
  circle에
  <br>
  #circle{
-    width: 1000px;
-    height: 1000px;
-    position: absolute;
-    top: 0;
-    left: 0;
-    border-radius: 50%;
-    transform: rotate(0deg);
+    width: 1000px;    
+    height: 1000px;     
+    position: absolute;   
+    top: 0;   
+    left: 0;   
+    border-radius: 50%;  
+    transform: rotate(0deg);  
     transition: 1s;               ✔
-}
+}  
 <br>
 transition을 1초로 주니까 자연스럽게 돌아가는 것이 신기했다.
 
