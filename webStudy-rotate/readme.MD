@@ -16,6 +16,7 @@
 
 * 돌아가는게 어떻게 도대체 구현될까? 했는데, 
  circle에
+ <br>
  #circle{
     width: 1000px;
     height: 1000px;
@@ -26,6 +27,7 @@
     transform: rotate(0deg);
     transition: 1s;               ✔
 }
+<br>
 transition을 1초로 주니까 자연스럽게 돌아가는 것이 신기했다.
 
  * vanlia javascript를 시간 날 때 한번 쭉 정주행 해보는게 좋을 것 같다.
